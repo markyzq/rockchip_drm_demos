@@ -2,6 +2,7 @@
 Test demo for rk internal kernel 4.4 drm
 
 # Build:
+
   copy to android project
   source build/envsetup.sh
   mm
@@ -9,6 +10,7 @@ Test demo for rk internal kernel 4.4 drm
 CABC Test:
 
 cabc_test -h
+
     -h or --help - this
     -a or --gamma=[float] - set pow(gamma) gamma table with gamma=f
     -m or --mode=[0 1 2 3] - cabc mode
